@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0f17709-8833-4c58-aa82-02ef44dfe2cd" name="Changes" comment="Initial Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hieul91&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6219a78b-62c8-4dc9-8604-84bf737bae40" />
+        <option name="url" value="https://github.com/etorunski/CST2335_Summer24.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gSb7PwMkIrNDLaCk1Udc0MVPVf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hieul/StudioProjects/lab2&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hieul\StudioProjects\lab2\images" />
+      <recent name="C:\Users\hieul\StudioProjects\CST2335_Summer24\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0f17709-8833-4c58-aa82-02ef44dfe2cd" name="Changes" comment="" />
+      <created>1715693757602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715693757602</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added algonquin image and asset to pubspec.yaml">
+      <option name="closed" value="true" />
+      <created>1715695027671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715695027671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added algonquin image and asset to pubspec.yaml">
+      <option name="closed" value="true" />
+      <created>1715697438843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715697438843</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added algonquin image and asset to pubspec.yaml">
+      <option name="closed" value="true" />
+      <created>1715697461728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715697461728</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added a button">
+      <option name="closed" value="true" />
+      <created>1715704929155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715704929155</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added a checkbox">
+      <option name="closed" value="true" />
+      <created>1715705726932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715705726932</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a switch">
+      <option name="closed" value="true" />
+      <created>1715705907458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715705907458</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tried to add the late textEditingController with override and textfield but not working. Also the checkbox and the switch does not stay checked when clicked">
+      <option name="closed" value="true" />
+      <created>1715709977510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715709977510</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added algonquin image and asset to pubspec.yaml" />
+    <MESSAGE value="Added a button" />
+    <MESSAGE value="Added a checkbox" />
+    <MESSAGE value="Added a switch" />
+    <MESSAGE value="tried to add the late textEditingController with override and textfield but not working. Also the checkbox and the switch does not stay checked when clicked" />
+    <option name="LAST_COMMIT_MESSAGE" value="tried to add the late textEditingController with override and textfield but not working. Also the checkbox and the switch does not stay checked when clicked" />
+  </component>
+</project>
